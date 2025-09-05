@@ -87,14 +87,14 @@ Hi, I'm **Sayyid Mohammad Ahjar**
 👨‍💻 **How to Build & Run**
 
 **Option A - OnlineGDB**
-1. Copy-paste `aj_taxi_booking_system.c`
+1. Copy-paste `smart_taxi_booking_system.c`
 2. Language: C -> Run
 
 **Option B - VS Code + GCC**
 ```bash
-gcc aj_taxi_booking_system.c -o
-aj_taxi_booking_system
-./aj_taxi_booking_system
+gcc smart_taxi_booking_system.c -o
+smart_taxi_booking_system
+./smart_taxi_booking_system
 
 👨‍💻 Developer:Sayyid Mohammad Ahjar (with Drango 639)
 
