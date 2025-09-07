@@ -73,7 +73,7 @@ solutions.
 
 👨‍💻 **About Me**
 
-Hi, I'm **Sayyid Mohammad Ahjar**
+Hi, I'm **Sayyid Mohammed Ahjar**
 
 📘 BBA First-Year student, exploring coding & AI concepts
 💻 Built demo projects in C (Supermarket, Police Complaint, Taxi Booking)
